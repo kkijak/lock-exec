@@ -77,3 +77,5 @@ The `lock` package can be utilized independently of the CLI tool. The package ca
 ```shell
 go get github.com/loomhq/lock-exec/v2
 ```
+
+# Update
